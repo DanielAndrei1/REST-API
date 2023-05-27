@@ -1,0 +1,18 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.5",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\Controller\\": "app/Controller/",
+            "app\\Model\\": "app/Model/",
+            "app\\View\\": "app/View/",
+            "app\\ErrorHandler\\": "app/ErrorHandler/",
+            "app\\Encryption\\": "app/Encryption/",
+            "app\\Mail\\": "app/Mail/",
+            "app\\RequestLimiter\\": "app/RequestLimiter/"
+
+        }
+    }
+}
