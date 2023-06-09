@@ -1,4 +1,4 @@
-# REST-API
+# REST-API <a href="https://wakatime.com/badge/github/DanielAndrei1/REST-API"><img src="https://wakatime.com/badge/github/DanielAndrei1/REST-API.svg" alt="wakatime"></a>
 You need composer to autoload the classes and JWT class or you can just download them yourself.
 
 #Installation
